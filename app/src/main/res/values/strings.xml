@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AlwaysAvailable</string>
+    <string name="already_accnt"><u>Already Have an Account?</u></string>
+    <string name="dont_accnt"><u>Don\'t have an Account?</u></string>
+    <string name="forgot_psswd"><u>Forgot Password?</u></string>
+    <string name="login">       <u>Login</u></string>
+    <string name="signup">       <u>SignUp</u></string>
 </resources>

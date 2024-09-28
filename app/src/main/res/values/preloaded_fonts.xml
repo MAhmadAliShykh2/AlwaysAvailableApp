@@ -3,5 +3,7 @@
     <array name="preloaded_fonts" translatable="false">
         <item>@font/manrope</item>
         <item>@font/manrope_extralight</item>
+        <item>@font/poppins</item>
+        <item>@font/poppins_thin</item>
     </array>
 </resources>

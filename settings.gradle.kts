@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AlwaysAvailable"
 include(":app")
+ 
